@@ -5,11 +5,9 @@ Topic: Business Transaction Processing and DBMS
 
 Frontend:
 	Streamlit was used to code the frontend on VS Code
-	Method used in coding is, .py files have been created for each CRUD operation like create.py, read.py, delete.py etc. including other necessary files such as
-	app.py, database.py.
+	Method used in coding is, .py files have been created for each CRUD operation like create.py, read.py, delete.py etc. including other necessary files such 	   as app.py, database.py.
 	The frontend consists of 6 different tables upon which CRUD operations can be performed.
-	Each CRUD operation can be performed on a page of its own which can be selected in the side menu where one can first select the table name they would like to edit
-	and then select the corresponding operation.
+	Each CRUD operation can be performed on a page of its own which can be selected in the side menu where one can first select the table name they would like 	   to edit and then select the corresponding operation.
 	There's another page in which the user can perform SQL queries and view the corresponding outputs.
 	SQL Connector has been used to make the connection between frontend and backend possible.
 
