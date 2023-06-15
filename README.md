@@ -1,6 +1,5 @@
 SRN: PES1UG20CS499
 Name: Vijeth APJ
-Section: 5 I
 Topic: Business Transaction Processing and DBMS
 
 Frontend:
